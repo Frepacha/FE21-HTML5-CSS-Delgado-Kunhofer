@@ -3,18 +3,22 @@ div {
     margin-left: 5px;
 }
 
-#third > p {
-    visibility: hidden;
+#third>p {
+    visibility: visible;
 }
 
 h1 {
-    visibility: hidden;
+    visibility: visible;
 }
 
 #second {
-    visibility: hidden;
+    visibility: visible;
 }
 
 #img {
     visibility: visible;
+}
+
+.left>p {
+    font-size: 5em;
 }
